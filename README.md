@@ -24,4 +24,4 @@ Para visualizar el proyecto solo necesitas un **navegador web moderno**.
 
   ## Si deseas contribuir, haz un fork del proyecto y envía un pull request con tus mejoras.
 
-  Desarrollado por [Roberto]
+  Desarrollado por Roberto
