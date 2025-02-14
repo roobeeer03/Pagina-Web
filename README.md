@@ -20,4 +20,8 @@ Para visualizar el proyecto solo necesitas un **navegador web moderno**.
 ## 📌 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   https://github.com/roobeeer03/Pagina-Web.git
+
+  ## Si deseas contribuir, haz un fork del proyecto y envía un pull request con tus mejoras.
+
+  Desarrollado por [Roberto]
